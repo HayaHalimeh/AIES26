@@ -22,7 +22,7 @@ Both conditions share the same conversation flow, recipe dataset, and survey ins
 
 ## Demo
 
-<video src="clip.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/bd4a4856-f4f3-4e2e-97eb-0395555abb1a" controls width="100%"></video>
 
 ---
 

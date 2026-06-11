@@ -5,6 +5,7 @@ import { Experience } from "./Experience";
 import { SurveyOverlay } from "./SurveyOverlay";
 import { WelcomeOverlay } from "./WelcomeOverlay";
 import { loadSession, saveSession } from "../hooks/useSession";
+import { lipsyncManager } from "../App";
 
 /* ---------- Recipe detail modal ---------- */
 const RecipeModal = ({ recipe, backendUrl, onClose }) => {
@@ -596,6 +597,9 @@ export const UI = ({ hidden, ...props }) => {
         {/* Welcome screen — shown until dismissed */}
         {!welcomeDismissed && (
           <WelcomeOverlay onNext={() => {
+            // Resume the WebAudio context synchronously during this user gesture so
+            // the greeting TTS can play when the fetch response arrives.
+            try { lipsyncManager.audioContext?.resume(); } catch {}
             setWelcomeDismissed(true);
             setConversationStarted(true);
             studyStartedAt.current = Date.now();

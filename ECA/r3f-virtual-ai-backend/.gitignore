@@ -1,0 +1,5 @@
+node_modules
+bin
+audios/message_*
+.env
+data.db

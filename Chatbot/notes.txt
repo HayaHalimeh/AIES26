@@ -1,0 +1,17 @@
+docker compose up --build
+
+# Detached mode
+docker compose up --build -d
+
+# Stop & remove containers, keep volumes
+docker compose down
+
+# If you also want to remove named volumes (e.g., wipe DB/audio state)
+docker compose down -v
+back  yarn dev
+front npm run dev
+
+
+
+
+

@@ -1,0 +1,11 @@
+node_modules
+README.md
+.git
+.gitignore
+.env    
+Dockerfile
+.dockerignore
+*.log
+audios/*   
+data.db 
+Rhubarb-Lip-Sync/*

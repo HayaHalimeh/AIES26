@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  backend:
+    build:
+      context: ./r3f-virtual-ai-backend
+    container_name: r3f-backend
+    env_file:
+      - ./r3f-virtual-ai-backend/.env
+    environment:
+      - DB_PATH=/app/db/data.db     
+    ports:
+      - "3000:3000"                        
+    volumes:
+      - db-data:/app/db
+      - ./r3f-virtual-ai-backend/audios:/app/audios
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/health"]
+      interval: 10s
+      timeout: 2s
+      retries: 5
+      start_period: 5s
+
+  frontend:
+    build:
+      context: ./r3f-virtual-ai-frontend
+      args:
+        VITE_API_URL: ${VITE_API_URL:-http://localhost:3000}
+    container_name: r3f-frontend
+    depends_on:
+      backend:
+        condition: service_healthy
+    ports:
+      - "3001:5173"                          
+    restart: unless-stopped
+
+volumes:
+  db-data:
+
+networks:
+  default:
+    name: r3f-net

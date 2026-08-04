@@ -1,0 +1,181 @@
+participant_id,rank,recipe_title,dish_type,total_time,complexity,distance,fsa_score,row_num
+P010,1,Stewed Tomato Pork Chops,Meat and Chicken Dishes,35 mins,10,0.0571428571428571,4,1
+P010,2,Air Fryer Keto Pork Chops,Meat and Chicken Dishes,25 mins,9,0.0625,7,2
+P010,3,Fabienne's Bison Meatballs,Meat and Chicken Dishes,20 mins,9,0.068721005017478,6,3
+P010,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.0416666666666669,10,4
+P010,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.3321137699840489,11,5
+P010,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.1749659495378997,10,6
+P013,1,Cantonese Style Pork and Shrimp Dumplings,Dumplings,50 mins,12,0.1,6,1
+P013,2,Potato Dumplings,Dumplings,50 mins,4,0.4333333333333333,5,2
+P013,3,Dim Sum Asian Dumplings,Dumplings,1 hr,15,0.3083861877846131,6,3
+P013,1,Roast Pork with Maple and Mustard Glaze,Meat and Chicken Dishes,1 hr 25 mins,7,0.0625,12,4
+P013,2,Honey Glazed Ham,Meat and Chicken Dishes,1 hr 35 mins,5,0.0846850407241383,12,5
+P013,3,Orange Glazed Ham,Meat and Chicken Dishes,1 hr 55 mins,6,0.1714285714285714,12,6
+P032,1,Halibut Steaks,Seafood,30 mins,11,0.0708333333333333,4,1
+P032,2,Fast Salmon with a Ginger Glaze,Seafood,25 mins,10,0.0,6,2
+P032,3,Big Ray's Lemony Grilled Salmon Fillets with Dill Sauce,Seafood,30 mins,11,0.0708333333333333,5,3
+P032,1,Sweet and Sour Meatballs II,Meat and Chicken Dishes,20 mins,11,0.068721005017478,12,4
+P032,2,Pecan-Crusted Pork with Pumpkin Butter,Meat and Chicken Dishes,30 mins,10,0.0285714285714285,10,5
+P032,3,Ham and Pineapple Dinner,Meat and Chicken Dishes,35 mins,9,0.0846850407241384,12,6
+P039,1,Salmon with Fruit Salsa,Seafood,55 mins,14,0.0913821341644221,4,1
+P039,2,Lemon Dill Salmon Fillet,Seafood,50 mins,15,0.0333333333333333,6,2
+P039,3,Drunken Shrimp,Seafood,35 mins,15,0.0666666666666667,6,3
+P039,1,Buffalo Chicken Sausage and Pepper Sandwich,Sandwiches and Tacos,25 mins,9,0.069944822980142,11,4
+P039,2,Pittsburgh Ham Barbecues,Sandwiches and Tacos,30 mins,11,0.0940079103054034,12,5
+P039,3,Arepas,Sandwiches and Tacos,27 mins,11,0.0792527085214935,11,6
+P044,1,Turkey Soft Tacos,Sandwiches and Tacos,38 mins,7,0.0921464396938073,6,1
+P044,2,Sublime Oxford Sandwich,Sandwiches and Tacos,25 mins,7,0.139889645960284,4,2
+P044,3,Vegetarian Chickpea Sandwich Filling,Sandwiches and Tacos,20 mins,7,0.1633110196397392,5,3
+P044,1,Waikiki Meatballs,Meat and Chicken Dishes,45 mins,14,0.0423425203620692,11,4
+P044,2,Natasha's Out-Of-This World Instant Pot Meatballs,Meat and Chicken Dishes,40 mins,11,0.2260903992266124,11,5
+P044,3,Honey-Garlic Pork Chops,Meat and Chicken Dishes,45 mins,12,0.1588407662743171,11,6
+P049,1,Cantonese Style Pork and Shrimp Dumplings,Dumplings,50 mins,12,0.2046649825984915,6,1
+P049,2,Potato Dumplings,Dumplings,50 mins,4,0.4686848972175427,5,2
+P049,3,Pierogi with Sauerkraut and Dried Mushrooms,Dumplings,1 hr 32 mins,10,0.4797308863894518,7,3
+P049,1,Grilled Hawaiians,Sandwiches and Tacos,15 mins,5,0.0,11,4
+P049,2,The Real Reuben,Sandwiches and Tacos,8 mins,5,0.0393258426966292,11,5
+P049,3,PBJ 'Sushi' Kid's Bento Box,Sandwiches and Tacos,15 mins,5,0.0,9,6
+P050,1,Healthy Pasta Primavera,Pasta,40 mins,15,0.1153846153846153,4,1
+P050,2,Easy One-Pot Chicken Alfredo,Pasta,30 mins,15,0.0384615384615384,6,2
+P050,3,Beer-Sauteed Shrimp,Pasta,30 mins,13,0.1387698372075364,5,3
+P050,1,Natasha's Out-Of-This World Instant Pot Meatballs,Meat and Chicken Dishes,40 mins,11,0.0846850407241383,11,4
+P050,2,Skillet Meatloaf,Meat and Chicken Dishes,55 mins,10,0.0285714285714285,11,5
+P050,3,Ham and Pineapple Dinner,Meat and Chicken Dishes,35 mins,9,0.106081048144851,12,6
+P001,1,Lighter Baked Shrimp Scampi,Seafood,25 mins,14,0.0625,4,1
+P001,2,Halibut Steaks,Seafood,30 mins,11,0.2522124325070259,4,2
+P001,3,Salmon with Fruit Salsa,Seafood,55 mins,14,0.2095381826780026,4,3
+P001,1,Waikiki Meatballs,Meat Dishes,45 mins,14,0.0423425203620692,11,4
+P001,2,Natasha's Out-Of-This World Instant Pot Meatballs,Meat Dishes,40 mins,11,0.2260903992266124,11,5
+P001,3,Honey-Garlic Pork Chops,Meat Dishes,45 mins,12,0.1588407662743171,11,6
+P002,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.0384615384615384,4,1
+P002,2,Pasta with Fresh Tomato Sauce,Pasta,25 mins,6,0.0,5,2
+P002,3,Pasta with Arugula and Tomatoes,Pasta,25 mins,7,0.0666666666666666,5,3
+P002,1,Grilled Hawaiians,Sandwiches and Tacos,15 mins,5,0.0,11,4
+P002,2,The Real Reuben,Sandwiches and Tacos,8 mins,5,0.0393258426966292,11,5
+P002,3,PBJ 'Sushi' Kid's Bento Box,Sandwiches and Tacos,15 mins,5,0.0,9,6
+P006,1,Pork Chops with Apple Cider Glaze,Meat Dishes,45 mins,10,0.0285714285714285,5,1
+P006,2,Stewed Tomato Pork Chops,Meat Dishes,35 mins,10,0.0857142857142856,4,2
+P006,3,Easy Baked BBQ Pork Chops,Meat Dishes,45 mins,10,0.0285714285714285,6,3
+P006,1,Neat Sloppy Joes,Sandwiches and Tacos,50 mins,11,0.0502508994821404,10,4
+P006,2,Hawaiian Roll Roast Beef and Cheese Sandwiches,Sandwiches and Tacos,55 mins,11,0.069944822980142,10,5
+P006,3,Giardino Grinder,Sandwiches and Tacos,45 mins,12,0.0833333333333333,10,6
+P008,1,Halibut Steaks,Seafood,30 mins,11,0.0708333333333333,4,1
+P008,2,Fast Salmon with a Ginger Glaze,Seafood,25 mins,10,0.0,6,2
+P008,3,Big Ray's Lemony Grilled Salmon Fillets with Dill Sauce,Seafood,30 mins,11,0.0708333333333333,5,3
+P008,1,Pogaca (Feta Dumplings),Dumplings,1 hr,15,0.0714285714285726,11,4
+P008,2,Verenika,Dumplings,1 hr 30 mins,16,0.2933889866809402,11,5
+P008,3,Yeast Dumplings,Dumplings,50 mins,9,0.4000000000000001,10,6
+P009,1,Easy Caramelized Onion Pork Chops,Meat Dishes,45 mins,6,0.1142857142857142,5,1
+P009,2,Apricot-Glazed Pork Chops,Meat Dishes,20 mins,6,0.0285714285714285,7,2
+P009,3,World's Best Honey Garlic Pork Chops,Meat Dishes,25 mins,5,0.0625,7,3
+P009,1,Buffalo Chicken Sausage and Pepper Sandwich,Sandwiches and Tacos,25 mins,9,0.069944822980142,11,4
+P009,2,Pittsburgh Ham Barbecues,Sandwiches and Tacos,30 mins,11,0.0940079103054034,12,5
+P009,3,Arepas,Sandwiches and Tacos,27 mins,11,0.0792527085214935,11,6
+P015,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P015,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P015,3,Sesame Noodles,Pasta,30 mins,10,0.0384615384615384,7,3
+P015,1,Cauliflower Mac-N-Cheese,Pasta,30 mins,10,0.0384615384615384,11,4
+P015,2,Peanut Noodles,Pasta,25 mins,10,0.0,10,5
+P015,3,Ed's Macaroni Jumble,Pasta,45 mins,12,0.2035839306797868,11,6
+P016,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P016,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P016,3,Sesame Noodles,Pasta,30 mins,10,0.0384615384615384,7,3
+P016,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.2916666666666666,10,4
+P016,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.4850768559857476,11,5
+P016,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.3671236170070858,10,6
+P017,1,Party Cucumber Sandwiches,Sandwiches and Tacos,10 mins,5,0.0280898876404494,6,1
+P017,2,Crunchy Brunch Wrap,Sandwiches and Tacos,10 mins,5,0.0280898876404494,7,2
+P017,3,Good and Easy Sloppy Joes,Sandwiches and Tacos,20 mins,5,0.0280898876404494,7,3
+P017,1,Buffalo Chicken Sausage and Pepper Sandwich,Sandwiches and Tacos,25 mins,9,0.069944822980142,11,4
+P017,2,Pittsburgh Ham Barbecues,Sandwiches and Tacos,30 mins,11,0.0940079103054034,12,5
+P017,3,Arepas,Sandwiches and Tacos,27 mins,11,0.0792527085214935,11,6
+P018,1,Grandma's Pork Chops in Mushroom Gravy,Meat Dishes,1 hr 15 mins,9,0.0846850407241384,6,1
+P018,2,Instant Pot Carne Adovado,Meat Dishes,1 hr 25 mins,12,0.125,5,2
+P018,3,Easy Baked Pork Chops,Meat Dishes,1 hr 10 mins,9,0.106081048144851,6,3
+P018,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.0416666666666669,10,4
+P018,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.3321137699840489,11,5
+P018,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.1749659495378997,10,6
+P019,1,Pork Chops with Apple Cider Glaze,Meat Dishes,45 mins,10,0.0285714285714285,5,1
+P019,2,Stewed Tomato Pork Chops,Meat Dishes,35 mins,10,0.0857142857142856,4,2
+P019,3,Easy Baked BBQ Pork Chops,Meat Dishes,45 mins,10,0.0285714285714285,6,3
+P019,1,Cauliflower Mac-N-Cheese,Pasta,30 mins,10,0.0384615384615384,11,4
+P019,2,Peanut Noodles,Pasta,25 mins,10,0.0,10,5
+P019,3,Ed's Macaroni Jumble,Pasta,45 mins,12,0.2035839306797868,11,6
+P020,1,Pork Chops with Apple Cider Glaze,Meat Dishes,45 mins,10,0.0285714285714285,5,1
+P020,2,Stewed Tomato Pork Chops,Meat Dishes,35 mins,10,0.0857142857142856,4,2
+P020,3,Easy Baked BBQ Pork Chops,Meat Dishes,45 mins,10,0.0285714285714285,6,3
+P020,1,Waikiki Meatballs,Meat Dishes,45 mins,14,0.0423425203620692,11,4
+P020,2,Natasha's Out-Of-This World Instant Pot Meatballs,Meat Dishes,40 mins,11,0.2260903992266124,11,5
+P020,3,Honey-Garlic Pork Chops,Meat Dishes,45 mins,12,0.1588407662743171,11,6
+P023,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P023,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P023,3,Sesame Noodles,Pasta,30 mins,10,0.0384615384615384,7,3
+P023,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.0416666666666669,10,4
+P023,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.3321137699840489,11,5
+P023,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.1749659495378997,10,6
+P024,1,Halibut with Vegetables,Seafood,45 mins,10,0.0,5,1
+P024,2,Lemony Steamed Fish,Seafood,45 mins,9,0.0625,4,2
+P024,3,Salmon and Asparagus in a Bag,Seafood,45 mins,11,0.0625,5,3
+P024,1,Honey Mustard Pork Chops,Meat Dishes,30 mins,5,0.068721005017478,12,4
+P024,2,Brown Sugar Ham Steak,Meat Dishes,25 mins,3,0.1875,12,5
+P024,3,Brisket Marinade,Meat Dishes,5 mins,7,0.1302592587488348,11,6
+P026,1,Simple Tuna Fish Tacos,Sandwiches and Tacos,25 mins,11,0.069944822980142,4,1
+P026,2,Meyer Lemon Avocado Toast,Sandwiches and Tacos,13 mins,8,0.0840874017345579,5,2
+P026,3,Strawberry Spinach Salad Breakfast Wrap,Sandwiches and Tacos,15 mins,10,0.0,8,3
+P026,1,Restaurant Style Mac and Cheese,Pasta,25 mins,5,0.0666666666666667,11,4
+P026,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398934,11,5
+P026,3,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.1153846153846153,11,6
+P040,1,Baked Salmon in a Foil Packet,Seafood,1 hr 15 mins,9,0.1179247641507076,6,1
+P040,2,Asian Salmon,Seafood,1 hr 45 mins,12,0.1600781059358212,5,2
+P040,3,"Parchment-Cooked Fish with Morels, Spring Garlic, and Thyme",Seafood,1 hr,8,0.2358495283014151,4,3
+P040,1,Baked Bourbon and Brown Sugar Salmon Nuggets,Seafood,1 hr 5 mins,10,0.1666666666666667,12,4
+P040,2,Carrie's Salmon with Purple Pureed Potatoes and French Green Beans,Seafood,1 hr 10 mins,15,0.3397558355316032,12,5
+P040,3,Sara's Soy Marinated and Cream Cheese-Stuffed Salmon,Seafood,55 mins,12,0.2647063362378098,11,6
+P045,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.1153846153846153,4,1
+P045,2,Quick Clam Spaghetti,Pasta,35 mins,7,0.1017919653398933,6,2
+P045,3,Sweet Potato Gnocchi,Pasta,1 hr 5 mins,6,0.1538461538461538,5,3
+P045,1,Sweet and Sour Meatballs II,Meat Dishes,20 mins,11,0.068721005017478,12,4
+P045,2,Pecan-Crusted Pork with Pumpkin Butter,Meat Dishes,30 mins,10,0.0285714285714285,10,5
+P045,3,Ham and Pineapple Dinner,Meat Dishes,35 mins,9,0.0846850407241384,12,6
+P048,1,Tastee Sandwich,Sandwiches and Tacos,1 hr,10,0.2387640449438202,7,1
+P048,2,Polish Sloppy Joes,Sandwiches and Tacos,1 hr 20 mins,7,0.1777725968758254,7,2
+P048,3,Rockfish Tacos,Sandwiches and Tacos,45 mins,12,0.3336093836533431,7,3
+P048,1,Restaurant Style Mac and Cheese,Pasta,25 mins,5,0.0666666666666667,11,4
+P048,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398934,11,5
+P048,3,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.1153846153846153,11,6
+P051,1,Fried Shrimp Tacos,Sandwiches and Tacos,1 hr 4 mins,21,0.1354186392567686,5,1
+P051,2,Easy Baked Falafel with Cucumber-Yogurt Sauce,Sandwiches and Tacos,1 hr,20,0.0940079103054034,6,2
+P051,3,Shrimp Tacos with Cilantro-Lime Crema,Sandwiches and Tacos,1 hr 15 mins,22,0.2098344689404261,6,3
+P051,1,Restaurant Style Mac and Cheese,Pasta,25 mins,5,0.0666666666666667,11,4
+P051,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398934,11,5
+P051,3,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.1153846153846153,11,6
+P052,1,Healthy Pasta Primavera,Pasta,40 mins,15,0.0384615384615384,4,1
+P052,2,Baked Asparagus and Mushroom Pasta,Pasta,1 hr,15,0.1153846153846154,6,2
+P052,3,Shrimp Spaghetti in Olive Oil Dressing,Pasta,40 mins,12,0.203664650690365,5,3
+P052,1,Honey Mustard Pork Chops,Meat Dishes,30 mins,5,0.068721005017478,12,4
+P052,2,Brown Sugar Ham Steak,Meat Dishes,25 mins,3,0.1875,12,5
+P052,3,Brisket Marinade,Meat Dishes,5 mins,7,0.1302592587488348,11,6
+P053,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P053,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P053,3,Sesame Noodles,Pasta,30 mins,10,0.0384615384615384,7,3
+P053,1,Waikiki Meatballs,Meat Dishes,45 mins,14,0.0423425203620692,11,4
+P053,2,Natasha's Out-Of-This World Instant Pot Meatballs,Meat Dishes,40 mins,11,0.2260903992266124,11,5
+P053,3,Honey-Garlic Pork Chops,Meat Dishes,45 mins,12,0.1588407662743171,11,6
+P057,1,Pork Chops with Apple Cider Glaze,Meat Dishes,45 mins,10,0.0285714285714285,5,1
+P057,2,Stewed Tomato Pork Chops,Meat Dishes,35 mins,10,0.0857142857142856,4,2
+P057,3,Easy Baked BBQ Pork Chops,Meat Dishes,45 mins,10,0.0285714285714285,6,3
+P057,1,Ed's Macaroni Jumble,Pasta,45 mins,12,0.1999999999999999,11,4
+P057,2,Cafeteria Macaroni and Cheese,Pasta,50 mins,11,0.269426058598532,11,5
+P057,3,Four-Cheese Truffled Macaroni and Cheese,Pasta,1 hr,10,0.3527388844153233,11,6
+P059,1,Stewed Tomato Pork Chops,Meat Dishes,35 mins,10,0.0571428571428571,4,1
+P059,2,Air Fryer Keto Pork Chops,Meat Dishes,25 mins,9,0.0625,7,2
+P059,3,Fabienne's Bison Meatballs,Meat Dishes,20 mins,9,0.068721005017478,6,3
+P059,1,Cauliflower Mac-N-Cheese,Pasta,30 mins,10,0.0384615384615384,11,4
+P059,2,Peanut Noodles,Pasta,25 mins,10,0.0,10,5
+P059,3,Ed's Macaroni Jumble,Pasta,45 mins,12,0.2035839306797868,11,6
+P060,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P060,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P060,3,Sesame Noodles,Pasta,30 mins,10,0.0384615384615384,7,3
+P060,1,Verenika,Dumplings,1 hr 30 mins,16,0.8124073294439437,11,4
+P060,2,Pogaca (Feta Dumplings),Dumplings,1 hr,15,0.65,11,5
+P060,3,Yeast Dumplings,Dumplings,50 mins,9,0.2681189197017636,10,6

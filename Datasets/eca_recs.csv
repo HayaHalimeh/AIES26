@@ -1,0 +1,157 @@
+participant_id,rank,recipe_title,dish_type,total_time,complexity,distance,fsa_score,row_num
+P004,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P004,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P004,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P004,1,Pogaca (Feta Dumplings),Dumplings,1 hr,15,0.3905124837953328,11,4
+P004,2,Yeast Dumplings,Dumplings,50 mins,9,0.2046649825984914,10,5
+P004,3,Verenika,Dumplings,1 hr 30 mins,16,0.5916127694144544,11,6
+P012,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P012,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P012,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P012,1,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,4
+P012,2,Salmon with Pecan Honey Glaze,Seafood,35 mins,6,0.0666666666666666,11,5
+P012,3,Maple-Mustard Salmon,Seafood,20 mins,5,0.0708333333333333,10,6
+P025,1,Party Cucumber Sandwiches,Sandwiches and Tacos,10 mins,5,0.0280898876404494,6,1
+P025,2,Crunchy Brunch Wrap,Sandwiches and Tacos,10 mins,5,0.0280898876404494,7,2
+P025,3,Good and Easy Sloppy Joes,Sandwiches and Tacos,20 mins,5,0.0280898876404494,7,3
+P025,1,Homemade Macaroni and Cheese,Pasta,50 mins,10,0.0384615384615384,11,4
+P025,2,Cafeteria Macaroni and Cheese,Pasta,50 mins,11,0.076965800101557,11,5
+P025,3,Easy Mac and Cheese Muffins,Pasta,55 mins,9,0.1017919653398934,11,6
+P029,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.0384615384615384,4,1
+P029,2,Pasta with Fresh Tomato Sauce,Pasta,25 mins,6,0.0,5,2
+P029,3,Pasta with Arugula and Tomatoes,Pasta,25 mins,7,0.0666666666666666,5,3
+P029,1,Ham and Pineapple Dinner,Meat and Chicken Dishes,35 mins,9,0.106081048144851,12,4
+P029,2,Skillet Meatloaf,Meat and Chicken Dishes,55 mins,10,0.0285714285714285,11,5
+P029,3,Natasha's Out-Of-This World Instant Pot Meatballs,Meat and Chicken Dishes,40 mins,11,0.0846850407241383,11,6
+P037,1,Easy Caramelized Onion Pork Chops,Meat and Chicken Dishes,45 mins,6,0.1142857142857142,5,1
+P037,2,Apricot-Glazed Pork Chops,Meat and Chicken Dishes,20 mins,6,0.0285714285714285,7,2
+P037,3,World's Best Honey Garlic Pork Chops,Meat and Chicken Dishes,25 mins,5,0.0625,7,3
+P037,1,Restaurant Style Mac and Cheese,Pasta,25 mins,5,0.0666666666666667,11,4
+P037,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398934,11,5
+P037,3,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.1153846153846153,11,6
+P038,1,Pork Chops with Apple Cider Glaze,Meat and Chicken Dishes,45 mins,10,0.0285714285714285,5,1
+P038,2,Stewed Tomato Pork Chops,Meat and Chicken Dishes,35 mins,10,0.0857142857142856,4,2
+P038,3,Easy Baked BBQ Pork Chops,Meat and Chicken Dishes,45 mins,10,0.0285714285714285,6,3
+P038,1,Creamy Crab Pesto over Mahi Mahi,Seafood,25 mins,9,0.0625,11,4
+P038,2,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,5
+P038,3,Lee's Salmon Baste,Seafood,25 mins,9,0.0625,10,6
+P042,1,Linguine Pasta with Shrimp and Tomatoes,Pasta,55 mins,10,0.0769230769230769,5,1
+P042,2,Alfredo Light,Pasta,40 mins,11,0.076965800101557,5,2
+P042,3,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.1153846153846153,4,3
+P042,1,Pittsburgh Ham Barbecues,Sandwiches and Tacos,30 mins,11,0.0940079103054034,12,4
+P042,2,Buffalo Chicken Sausage and Pepper Sandwich,Sandwiches and Tacos,25 mins,9,0.069944822980142,11,5
+P042,3,Arepas,Sandwiches and Tacos,27 mins,11,0.0792527085214935,11,6
+P054,1,Salmon with Fruit Salsa,Seafood,55 mins,14,0.0913821341644221,4,1
+P054,2,Lighter Baked Shrimp Scampi,Seafood,25 mins,14,0.1472549753922691,4,2
+P054,3,Lemon Dill Salmon Fillet,Seafood,50 mins,15,0.0333333333333333,6,3
+P054,1,Pogaca (Feta Dumplings),Dumplings,1 hr,15,0.3905124837953328,11,4
+P054,2,Yeast Dumplings,Dumplings,50 mins,9,0.2046649825984914,10,5
+P054,3,Verenika,Dumplings,1 hr 30 mins,16,0.5916127694144544,11,6
+P003,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P003,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P003,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P003,1,Ed's Macaroni Jumble,Pasta,45 mins,12,0.1999999999999999,11,4
+P003,2,Cafeteria Macaroni and Cheese,Pasta,50 mins,11,0.269426058598532,11,5
+P003,3,Homemade Macaroni and Cheese,Pasta,50 mins,10,0.3355449314949335,11,6
+P005,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.1153846153846153,4,1
+P005,2,Quick Clam Spaghetti,Pasta,35 mins,7,0.1017919653398933,6,2
+P005,3,Sweet Potato Gnocchi,Pasta,1 hr 5 mins,6,0.1538461538461538,5,3
+P005,1,Creamy Crab Pesto over Mahi Mahi,Seafood,25 mins,9,0.0625,11,4
+P005,2,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,5
+P005,3,Lee's Salmon Baste,Seafood,25 mins,9,0.0625,10,6
+P007,1,Cauliflower Mac-N-Cheese,Pasta,30 mins,10,0.0384615384615384,11,1
+P007,2,Peanut Noodles,Pasta,25 mins,10,0.0,10,2
+P007,3,Ed's Macaroni Jumble,Pasta,45 mins,12,0.2035839306797868,11,3
+P011,1,Simple Tuna Fish Tacos,Sandwiches and Tacos,25 mins,11,0.069944822980142,4,1
+P011,2,Meyer Lemon Avocado Toast,Sandwiches and Tacos,13 mins,8,0.0840874017345579,5,2
+P011,3,Vegetarian Chickpea Sandwich Filling,Sandwiches and Tacos,20 mins,7,0.1281172969885529,5,3
+P011,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.2916666666666666,10,4
+P011,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.4850768559857476,11,5
+P011,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.3671236170070858,10,6
+P014,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P014,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P014,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P021,1,Fresh Herbed Halibut,Seafood,30 mins,6,0.0333333333333333,5,1
+P021,2,Steamed Salmon with Broccoli and Shallots,Seafood,25 mins,7,0.0625,5,2
+P021,3,Nigel's Simple Salmon Glaze,Seafood,25 mins,6,0.0,6,3
+P022,1,Linguine Pasta with Shrimp and Tomatoes,Pasta,55 mins,10,0.0769230769230769,5,1
+P022,2,Alfredo Light,Pasta,40 mins,11,0.076965800101557,5,2
+P022,3,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.1153846153846153,4,3
+P022,1,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.2916666666666666,10,4
+P022,2,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.4850768559857476,11,5
+P022,3,My Favorite Stuffed Green Peppers,Stuffed Dishes,1 hr 5 mins,13,0.3671236170070858,10,6
+P027,1,"Mini Ham, Swiss, Rye Sandwiches with Cranberry Onion Relish",Sandwiches and Tacos,50 mins,10,0.0280898876404494,7,1
+P027,2,Kendra's Maid-Rite Sandwiches,Sandwiches and Tacos,45 mins,9,0.0416666666666666,7,2
+P027,3,Easy Lentil Feta Wraps,Sandwiches and Tacos,35 mins,10,0.0561797752808989,7,3
+P027,1,Baked Bourbon and Brown Sugar Salmon Nuggets,Seafood,1 hr 5 mins,10,0.1333333333333333,12,4
+P027,2,Sara's Soy Marinated and Cream Cheese-Stuffed Salmon,Seafood,55 mins,12,0.1416666666666666,11,5
+P027,3,Honey Mustard-Soy Salmon,Seafood,45 mins,8,0.125,11,6
+P028,1,Linguine Pasta with Shrimp and Tomatoes,Pasta,55 mins,10,0.0769230769230769,5,1
+P028,2,Alfredo Light,Pasta,40 mins,11,0.076965800101557,5,2
+P028,3,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.1153846153846153,4,3
+P028,1,Baked Bourbon and Brown Sugar Salmon Nuggets,Seafood,1 hr 5 mins,10,0.1333333333333333,12,4
+P028,2,Sara's Soy Marinated and Cream Cheese-Stuffed Salmon,Seafood,55 mins,12,0.1416666666666666,11,5
+P028,3,Honey Mustard-Soy Salmon,Seafood,45 mins,8,0.125,11,6
+P030,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.0384615384615384,4,1
+P030,2,Pasta with Fresh Tomato Sauce,Pasta,25 mins,6,0.0,5,2
+P030,3,Pasta with Arugula and Tomatoes,Pasta,25 mins,7,0.0666666666666666,5,3
+P030,1,Grilled Hawaiians,Sandwiches and Tacos,15 mins,5,0.0,11,4
+P030,2,The Real Reuben,Sandwiches and Tacos,8 mins,5,0.0393258426966292,11,5
+P030,3,Cinnamon-Raisin Peanut Butter Sandwich,Sandwiches and Tacos,10 mins,5,0.0280898876404494,10,6
+P031,1,Healthy Pasta Primavera,Pasta,40 mins,15,0.1153846153846153,4,1
+P031,2,Easy One-Pot Chicken Alfredo,Pasta,30 mins,15,0.0384615384615384,6,2
+P031,3,Beer-Sauteed Shrimp,Pasta,30 mins,13,0.1387698372075364,5,3
+P031,1,Homemade Macaroni and Cheese,Pasta,50 mins,10,0.0384615384615384,11,4
+P031,2,Cafeteria Macaroni and Cheese,Pasta,50 mins,11,0.076965800101557,11,5
+P031,3,Easy Mac and Cheese Muffins,Pasta,55 mins,9,0.1017919653398934,11,6
+P034,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P034,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P034,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P034,1,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,4
+P034,2,Salmon with Pecan Honey Glaze,Seafood,35 mins,6,0.0666666666666666,11,5
+P034,3,Maple-Mustard Salmon,Seafood,20 mins,5,0.0708333333333333,10,6
+P035,1,Halibut Steaks,Seafood,30 mins,11,0.0708333333333333,4,1
+P035,2,Big Ray's Lemony Grilled Salmon Fillets with Dill Sauce,Seafood,30 mins,11,0.0708333333333333,5,2
+P035,3,Fast Salmon with a Ginger Glaze,Seafood,25 mins,10,0.0,6,3
+P035,1,Cauliflower Mac-N-Cheese,Pasta,30 mins,10,0.0384615384615384,11,4
+P035,2,Peanut Noodles,Pasta,25 mins,10,0.0,10,5
+P035,3,Ed's Macaroni Jumble,Pasta,45 mins,12,0.2035839306797868,11,6
+P036,1,Veggie and Cilantro Hummus Sandwiches,Sandwiches and Tacos,45 mins,22,0.125,10,1
+P036,2,Hot Pat,Sandwiches and Tacos,35 mins,12,0.2970279643317388,11,2
+P036,3,Philly Cheese Steak Sloppy Joes,Sandwiches and Tacos,35 mins,12,0.2970279643317388,11,3
+P041,1,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.0384615384615384,11,1
+P041,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398933,11,2
+P041,3,Macaroni and Cheese Southern Style,Pasta,1 hr 5 mins,6,0.1538461538461538,11,3
+P043,1,Halibut Steaks,Seafood,30 mins,11,0.0708333333333333,4,1
+P043,2,Big Ray's Lemony Grilled Salmon Fillets with Dill Sauce,Seafood,30 mins,11,0.0708333333333333,5,2
+P043,3,Fast Salmon with a Ginger Glaze,Seafood,25 mins,10,0.0,6,3
+P043,1,Pittsburgh Ham Barbecues,Sandwiches and Tacos,30 mins,11,0.0940079103054034,12,4
+P043,2,Buffalo Chicken Sausage and Pepper Sandwich,Sandwiches and Tacos,25 mins,9,0.069944822980142,11,5
+P043,3,Arepas,Sandwiches and Tacos,27 mins,11,0.0792527085214935,11,6
+P046,1,Fresh Herbed Halibut,Seafood,30 mins,6,0.0333333333333333,5,1
+P046,2,Steamed Salmon with Broccoli and Shallots,Seafood,25 mins,7,0.0625,5,2
+P046,3,Nigel's Simple Salmon Glaze,Seafood,25 mins,6,0.0,6,3
+P046,1,Restaurant Style Mac and Cheese,Pasta,25 mins,5,0.0666666666666667,11,4
+P046,2,Spamaroni and Cheese,Pasta,35 mins,5,0.1017919653398934,11,5
+P046,3,Mac and Cheese in a Cheese Waffle Cone,Pasta,40 mins,6,0.1153846153846153,11,6
+P047,1,Stuffed Zucchini,Stuffed Dishes,1 hr 10 mins,7,0.3828082545652766,11,1
+P047,2,Stuffed Peppers My Way,Stuffed Dishes,1 hr,11,0.4826991180096404,10,2
+P047,3,Polish Stuffed Cabbage,Stuffed Dishes,1 hr 30 mins,10,0.6229585331230286,10,3
+P055,1,Creamy Asparagus Pasta,Pasta,30 mins,6,0.1153846153846153,4,1
+P055,2,Quick Clam Spaghetti,Pasta,35 mins,7,0.1017919653398933,6,2
+P055,3,Sweet Potato Gnocchi,Pasta,1 hr 5 mins,6,0.1538461538461538,5,3
+P055,1,Pogaca (Feta Dumplings),Dumplings,1 hr,15,0.2500000000000002,11,4
+P055,2,Verenika,Dumplings,1 hr 30 mins,16,0.4690476190476191,11,5
+P055,3,Yeast Dumplings,Dumplings,50 mins,9,0.4380499458989134,10,6
+P056,1,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.0384615384615384,4,1
+P056,2,Linguini with White Clam Sauce,Pasta,25 mins,11,0.0666666666666666,5,2
+P056,3,Whole-Family Pasta with Broccoli and Cauliflower,Pasta,25 mins,11,0.0666666666666666,6,3
+P056,1,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,4
+P056,2,Salmon with Pecan Honey Glaze,Seafood,35 mins,6,0.0666666666666666,11,5
+P056,3,Maple-Mustard Salmon,Seafood,20 mins,5,0.0708333333333333,10,6
+P058,1,Linguine Pasta with Shrimp and Tomatoes,Pasta,55 mins,10,0.0769230769230769,5,1
+P058,2,Alfredo Light,Pasta,40 mins,11,0.076965800101557,5,2
+P058,3,Instant Pot Jazzed-Up Instant Ramen Noodle Soup,Pasta,30 mins,10,0.1153846153846153,4,3
+P058,1,Creamy Crab Pesto over Mahi Mahi,Seafood,25 mins,9,0.0625,11,4
+P058,2,Roast Salmon With Balsamic Vinegar,Seafood,25 mins,8,0.125,12,5
+P058,3,Lee's Salmon Baste,Seafood,25 mins,9,0.0625,10,6
